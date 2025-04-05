@@ -46,25 +46,22 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
-# Henrique Cervi - GitHub Repository
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+</p>
 
-Welcome to my **GitHub repository**!
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> How to reach me
+<p align="center">
+	<a href="mailto:hcervicutri@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/henriquecervi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/](https://www.linkedin.com/in/henriquecervi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-I am a **Quality Assurance (QA)** professional with experience in test automation. I share my projects and studies here to improve my skills and contribute to the community.
 
-## Projects
-
-Here are some of the key projects available in this repository:
-
-### [automacodeCypress](https://github.com/henriquecervi/automacodeCypress)
-Repository dedicated to practicing **test automation** with the **Cypress** framework.
-
-**Technologies**: JavaScript, Cypress
-
-### [API-RestAssured](https://github.com/henriquecervi/API-RestAssured)
-API test automation using **RestAssured**.
-
-**Technologies**: Java, RestAssured
-
-📫 How to reach me:
-https://www.linkedin.com/in/henriquecervi/
