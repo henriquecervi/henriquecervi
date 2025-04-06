@@ -1,11 +1,13 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">## Hi there 👋</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Quality+Engineer;QA;Quality+Assurance;Expert+on+API;Always+learning+new+things"></a>
 </p>
 <br>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 
 
 <div id="user-content-toc">
   <ul align="center">
@@ -25,7 +27,11 @@
   &emsp;
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Software & Tools</h2></summary>
+  </ul>
+</div>
  
 <p align="center">
   &emsp;
@@ -40,7 +46,11 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">IDEs</h2></summary>
+  </ul>
+</div>
  
 <p align="center">
   &emsp;
@@ -51,7 +61,12 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> How to reach me
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">How to reach me</h2></summary>
+  </ul>
+</div>
+
 <p align="center">
 	<a href="mailto:hcervicutri@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/henriquecervi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
